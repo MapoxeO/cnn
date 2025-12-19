@@ -1,4 +1,5 @@
 /venv
-start
+/src/__pycache__
 /models
+start
 test
